@@ -1,0 +1,126 @@
+{
+    "MAJOR_US_INDICES": {
+        "^GSPC": "S&P 500",
+        "^DJI": "Dow Jones Industrial Average",
+        "^IXIC": "NASDAQ Composite",
+        "^RUT": "Russell 2000",
+        "^VIX": "CBOE Volatility Index (VIX)",
+        "SPY": "SPDR S&P 500 ETF",
+        "QQQ": "Invesco QQQ Trust",
+        "IWM": "iShares Russell 2000 ETF",
+        "DIA": "SPDR Dow Jones Industrial Average ETF"
+    },
+    "INTERNATIONAL_MARKETS": {
+        "EFA": "iShares MSCI EAFE ETF",
+        "EEM": "iShares MSCI Emerging Markets ETF",
+        "VEA": "Vanguard Total World Stock ETF",
+        "FXI": "CHINA",
+        "EWJ": "JAPAN",
+        "EWG": "GERMANY",
+        "EWU": "UK",
+        "VWO": "EMERGING_ALT"
+    },
+    "SECTOR_COVERAGE": {
+        "XLF": "FINANCIAL",
+        "XLK": "TECHNOLOGY",
+        "XLE": "ENERGY",
+        "XLV": "HEALTHCARE",
+        "XLI": "INDUSTRIAL",
+        "XLP": "CONSUMER_STAPLES",
+        "XLY": "CONSUMER_DISC",
+        "XLU": "UTILITIES",
+        "XLB": "MATERIALS",
+        "XLRE": "REAL_ESTATE",
+        "XLC": "COMMUNICATION"
+    },
+    "VOLATILITY_RISK": {
+        "VXX": "VOLATILITY",
+        "UVXY": "VOLATILITY_2X",
+        "SVXY": "VOLATILITY_INV"
+    },
+    "FIXED_INCOME": {
+        "TLT": "TREASURY_20Y",
+        "IEF": "TREASURY_7_10Y",
+        "SHY": "TREASURY_1_3Y",
+        "TIP": "INFLATION_PROTECTED"
+    },
+    "CREDIT_MARKETS": {
+        "HYG": "HIGH_YIELD_BONDS",
+        "LQD": "INVESTMENT_GRADE",
+        "EMB": "EMERGING_BONDS",
+        "MUB": "MUNICIPAL_BONDS"
+    },
+    "COMMODITIES": {
+        "GLD": "GOLD",
+        "SLV": "SILVER",
+        "USO": "OIL",
+        "UNG": "NATURAL_GAS",
+        "DBA": "AGRICULTURE",
+        "PDBC": "COMMODITIES_BROAD"
+    },
+    "CURRENCIES": {
+        "UUP": "DOLLAR_BULLISH",
+        "FXE": "EURO",
+        "FXY": "YEN",
+        "FXB": "BRITISH_POUND"
+    },
+    "FACTOR_INVESTING": {
+        "MTUM": "MOMENTUM",
+        "QUAL": "QUALITY",
+        "SIZE": "SIZE_FACTOR",
+        "USMV": "LOW_VOLATILITY",
+        "VLUE": "VALUE"
+    },
+    "ALTERNATIVES": {
+        "VNQ": "REIT_US",
+        "VNQI": "REIT_INTERNATIONAL",
+        "REM": "MORTGAGE_REIT"
+    },
+    "US_TREASURY_YIELDS": {
+        "^IRX": "13-Week T-Bill Yield",
+        "^FVX": "5-Year Treasury Yield",
+        "^TNX": "10-Year Treasury Yield",
+        "^TYX": "30-Year Treasury Yield"
+    },
+    "FOREX": {
+        "USDJPY=X": "USD/JPY"
+    },
+    "US_CONFIDENCE_MACRO": {
+        "^SP500TR": "S&P 500 Total Return Index",
+        "^NYA": "NYSE Composite Index",
+        "^W5000": "Wilshire 5000 Total Market Index",
+        "^SOX": "PHLX Semiconductor Index",
+        "^XAU": "Gold & Silver Mining Index"
+    },
+    "KEY_US_COMPANIES": {
+        "IBM": "IBM",
+        "MSFT": "Microsoft",
+        "AAPL": "Apple",
+        "GE": "General Electric",
+        "KO": "Coca-Cola",
+        "MCD": "McDonald's",
+        "PG": "Procter & Gamble",
+        "JPM": "JPMorgan Chase",
+        "XOM": "Exxon Mobil",
+        "WMT": "Walmart",
+        "DIS": "Walt Disney",
+        "JNJ": "Johnson & Johnson",
+        "INTC": "Intel",
+        "CSCO": "Cisco",
+        "BA": "Boeing",
+        "CAT": "Caterpillar",
+        "AXP": "American Express",
+        "C": "Citigroup",
+        "BAC": "Bank of America",
+        "WFC": "Wells Fargo",
+        "F": "Ford",
+        "PEP": "PepsiCo",
+        "NKE": "Nike",
+        "VZ": "Verizon",
+        "CVX": "Chevron",
+        "MRK": "Merck",
+        "PFE": "Pfizer",
+        "ORCL": "Oracle",
+        "ADBE": "Adobe"
+    }
+}

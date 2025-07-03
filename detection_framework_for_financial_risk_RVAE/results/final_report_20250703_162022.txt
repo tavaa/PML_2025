@@ -1,0 +1,24 @@
+ R-VAE FINANCIAL CRISIS DETECTOR - FINAL REPORT
+
+ DATASET SUMMARY:
+    Total sequences processed: 52,857
+    Features per sequence: 20
+    Analysis period: 1990-01-01 to 2024-12-31
+
+ MODEL PERFORMANCE:
+    Best model: 22-day windows
+    ROC AUC: 0.821
+    Average Precision: 0.634
+
+    All models comparison:
+      15-day windows: ROC AUC = 0.804, AP = 0.600
+      22-day windows: ROC AUC = 0.821, AP = 0.634
+
+ CRISIS DETECTION CAPABILITIES:
+    Historical crises covered: 6
+      - Gulf War Recession: 1990-07-01 to 1991-03-31
+      - Asian Financial Crisis: 1997-07-01 to 1998-12-31
+      - Dot Com Crash: 2000-03-01 to 2002-10-01
+      - Global Financial Crisis: 2007-10-01 to 2009-06-30
+      - COVID 19 Crisis: 2020-02-01 to 2020-06-30
+      - Inflation Bear Market: 2022-01-01 to 2022-12-31
