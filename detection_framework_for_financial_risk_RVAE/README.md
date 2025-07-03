@@ -74,7 +74,7 @@ Navigate into `/results` folder to see the default results.
 ## Authors
 
 - **Ricatti Luca**, SM3800083, luca.ricatti@studenti.units.it 
-- **Tavano Matteo**, SM3800053, matteo.tavano@studenti.units.it
+- **Tavano Matteo**, SM3800057,  matteo.tavano@studenti.units.it
 
 Both autors has contributed to this project equally.
 AI has been used to refactor notebook cells and to improve the descriptions quality.
