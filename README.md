@@ -42,7 +42,7 @@ Make sure you have:
 - Jupyter Notebook  
 - Common Python packages:
   - `numpy`, `scipy`, `matplotlib`, `pandas`
-  - `torch` or `tensorflow` (for VAE)
+  - `torch` 
   - `seaborn`, `sklearn`.
 
 ## Usage
@@ -66,4 +66,6 @@ Start Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
+
+Run cells and Explore notebooks!
 
