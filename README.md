@@ -5,11 +5,14 @@ This repository collects exercises, homework and a final project created for the
 The course introduces the fundamentals of machine learning with a probabilistic approach, combining probability theory, Bayesian inference, generative models, probabilistic neural networks, and advanced methods such as variational autoencoders (VAE) and Gaussian Processes.
 
 ## Structure of the Repository
+```bash
 PML_2025/
-├── detection_framework_for_financial_risk_RVAE/ # Final Project
-├── homework01/ # Exercises on MLE, MAP, sampling
-├── homework02/ # Exercises related to bayesian inference and MCMC
-└── README.md 
+├── detection_framework_for_financial_risk_RVAE/  # Final Project
+├── homework01/                                    # Exercises on MLE, MAP, sampling
+├── homework02/                                    # Exercises related to Bayesian inference and MCMC
+└── README.md                                      # Project documentation
+```
+
 
 ##  Main contents
 
