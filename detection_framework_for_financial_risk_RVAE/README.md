@@ -10,6 +10,7 @@ This project implements a Recurrent Variational Autoencoder (R-VAE) to detect pe
 - `models/`: Directory where trained model weights are saved.
 - `results/`: Directory where evaluation plots and reports are saved.
 - `pipeline.png`: A simple overview image of the underlying architecture.
+- `detection_framework_for_financial_risk_RVAE_presentation.pdf`: Presentation of the project
 - `requirements.txt`: A list of required Python packages.
 
 ## Data
